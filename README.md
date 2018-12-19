@@ -1,0 +1,1 @@
+# snazzycontacts-adapter
